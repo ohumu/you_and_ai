@@ -1,4 +1,4 @@
-# You and AI Podcast**
+# You and AI Podcast
 
 Welcome to the official repository for the You and AI podcast. This podcast democratises foundational knowledge of Artificial Intelligence, defining terms, and discussing opportunities, developments, and insights from industry experts.
 
